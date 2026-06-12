@@ -94,3 +94,4 @@ Upload a wheat leaf image and click `Predict disease`.
 - Uploaded images are stored in `static/uploads/` by default.
 - The application starts in debug mode when run directly from `app.py`.
 - If the model file is missing, the app will fail to load and must be restored in the `model/` directory.
+
